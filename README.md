@@ -18,9 +18,9 @@ Datos: **ISTAC** – Población y migración en Canarias
 
 ## 3. Cartograma (Dorling - Círculos por población)
 
-<iframe src="https://public.tableau.com/views/QW9M3HSRC/1?:language=es-ES&:embed=y&:display_count=n&:origin=viz_share_link" width="100%" height="600"></iframe>
+<iframe src="https://public.tableau.com/shared/QW9M3HSRC?:display_count=n&:origin=viz_share_link&:embed=y" width="100%" height="600"></iframe>
 
-[Ver en Tableau Public](https://public.tableau.com/views/QW9M3HSRC/1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Ver en Tableau Public](https://public.tableau.com/shared/QW9M3HSRC?:display_count=n&:origin=viz_share_link)
 
 ---
 
