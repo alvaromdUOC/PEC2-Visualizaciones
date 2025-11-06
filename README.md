@@ -9,7 +9,7 @@ Datos: **ISTAC** – Población y migración en Canarias
 
 ---
 
-## 2. Diagrama Aluvial
+## 2. Diagrama Alluvial
 ![Diagrama Aluvial](alluvial_canarias.png)  
 *Flujo: isla → municipio (top 10 por isla)*  
 [Ver en grande](alluvial_canarias.png)
