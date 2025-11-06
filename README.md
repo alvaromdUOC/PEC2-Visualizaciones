@@ -1,4 +1,3 @@
-# PEC2: Técnicas de Visualización de Datos
 Datos: **ISTAC** – Población y migración en Canarias  
 
 ---
